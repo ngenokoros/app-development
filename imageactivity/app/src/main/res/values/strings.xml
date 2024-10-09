@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">image activity</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="title_activity_appscreen">APPSCREEN</string>
+</resources>
